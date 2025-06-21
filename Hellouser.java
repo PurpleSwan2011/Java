@@ -6,6 +6,6 @@ public class Hellouser {
         String name=sc.nextLine();
         System.out.println("enter");
         int lucky=sc.nextInt();
-        System.out.println("Hello"+name+",your lucky number"+lucky+"shows ur really harworking");
+        System.out.println("Hello" +name+ ",your lucky number" + lucky+ "shows ur really harworking");
     }
 }
